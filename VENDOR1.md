@@ -1,1 +1,2 @@
-local vendor1 changes
+local vendor1 changes  
+blah blah
