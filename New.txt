@@ -1,1 +1,3 @@
-Different changes to new
+These new changes should persist.
+blah
+blah blah
