@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-New changes New start2
-=======
-hi
->>>>>>> 7e09f65ec68654d54b6694dd3a9e90e93c407e1d
+TEST CHANGE
