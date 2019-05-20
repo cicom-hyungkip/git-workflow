@@ -1,1 +1,1 @@
-Weird changes to vendor1
+Different changes to vendor1
